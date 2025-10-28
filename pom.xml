@@ -35,7 +35,7 @@
 					<cloudhub2Deployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<provider>MC</provider>
-						
+						<javaVersion>java17</javaVersion> 
     						<environment>Sandbox</environment>
     						<target>Cloudhub-US-East-2</target>
 						<muleVersion>${app.runtime}</muleVersion>
