@@ -113,7 +113,7 @@
         </pluginRepository>
     </pluginRepositories>
 	
-<<distributionManagement>
+<distributionManagement>
         <repository>
             <id>Repository</id>
             <name>Corporate Repository</name>
