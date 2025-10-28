@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>employee-system-api</name>
+	<name>employee-system-api-app</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
